@@ -1,2 +1,1 @@
-BOARD_SEPOLICY_DIRS += \
-    $(VENDOR_PATH)/sepolicy
+BOARD_SEPOLICY_DIRS += device/cyanogen/msm8916-common/sepolicy
